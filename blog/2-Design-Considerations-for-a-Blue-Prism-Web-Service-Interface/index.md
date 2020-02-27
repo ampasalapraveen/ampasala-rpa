@@ -1,4 +1,4 @@
-# 2-Design-Considerations-for-a-Blue-Prism-Web-Service-Interface
+# Desig Considerations for a Blue Prism Web Service Interface
 
 When deciding to expose Blue Prism web services for consumption by external systems there are a number of design considerations that should be reviewed to ensure that the approach both meets the intended requirement, and aligns with the capabilities of the Blue Prism platform. 
 
