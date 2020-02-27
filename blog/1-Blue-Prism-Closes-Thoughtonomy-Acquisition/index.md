@@ -1,4 +1,4 @@
-# Blue Prism Closes Thoughtonomy Acquisition
+## Blue Prism Closes Thoughtonomy Acquisition
 
  Blue Prism (AIM: PRSM) -RPA platform and Thoughtonomy’s award winning Software-as-a-Service (SaaS) capabilities.
  
