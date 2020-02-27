@@ -1,4 +1,4 @@
-# 3.How to Filter Data Tables in UiPath Studio
+# How to Filter Data Tables in UiPath Studio
 
 The default filter Data Table activity for Studio. Suppose we have a table with 10 records with columns like FirstName, LastName, Company, Address, etc. For this example, I want to filter the records based anyone with the first name as “John.” We will use this example throughout this  post, with different approaches.
 I have already read an Excel and put the data into SampleDT variable and FilteredDT is the variable that we will use for storing the result.
