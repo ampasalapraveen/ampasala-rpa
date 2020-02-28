@@ -1,7 +1,6 @@
 # Windows Scheduler : For Auto Execution of EXE files
 
-Need to execute a specific program on a daily basis for a specific time. 
-basis by using BAT file.
+Execute a specific program on a daily basis on a specific time by using BAT file.
 
 ## Steps to run BAT using Windows Scheduler.
 
