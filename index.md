@@ -2,7 +2,7 @@
 
 Feb 28, 2020	
 
-[3.Windows Scheduler - For Auto Execution of EXE files](https://ampasalapraveen.github.io/ampasala-rpa/blog/2-Design-Considerations-for-a-Blue-Prism-Web-Service-Interface)	
+[3.Windows Scheduler - For Auto Execution of EXE files](https://ampasalapraveen.github.io/ampasala-rpa/blog/4-Windows-Scheduler-For-Auto-Execution-of-EXE-files)	
 
 Feb 27, 2020	
 
