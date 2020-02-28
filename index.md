@@ -6,7 +6,7 @@ Feb 28, 2020
 
 Feb 27, 2020	
 
-[2.Blue Prism Mainframe Interface](https://ampasalapraveen.github.io/ampasala-rpa/blog/1-Blue-Prism-Closes-Thoughtonomy-Acquisition)
+[2.Blue Prism Mainframe Interface](https://ampasalapraveen.github.io/ampasala-rpa/blog/2-Blue-Prism-Mainframe-Interface)
 
 Feb 26, 2020
 
