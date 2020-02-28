@@ -1,4 +1,4 @@
-# Windows Scheduler : For Auto Execution of EXE files
+# Windows Scheduler for Auto Execution of EXE files
 
 Execute a specific program on a daily basis on a specific time by using BAT file.
 
